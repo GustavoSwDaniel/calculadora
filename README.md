@@ -7,7 +7,7 @@
   
   # Funcionamento
    Basicamente o funcionamento é como um calculadora comum. Ela realizar todas as somas que o Python pode realizar, por Exemplo em Python
-   para realizar a exponenciação utilizamos ** . Então se utilizamos ** na calculadora ele ira realizar o calculo do exponecial de uma numero.
+   para realizar a potencia de um numero utilizamos ** . Então se utilizamos ** na calculadora ele ira realizar o calculo da potencia de uma numero.
    
    ## Fucionalidades
    
@@ -23,8 +23,8 @@
    ### Divisão
    ![](./gifs/divisao.gif)
    
-   ### Exponenciação
-   ![](./gifs/exponenciacao.gif)
+   ### Potencia
+   ![](./gifs/potencia.gif)
    
    ### Apagar individualmente
    ![](./gifs/apagar_um.gif)
