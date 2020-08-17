@@ -9,9 +9,25 @@
    Basicamente o funcionamento é como um calculadora comum. Ela realizar todas as somas que o Python pode realizar, por Exemplo em Python
    para realizar a exponenciação utilizamos ** . Então se utilizamos ** na calculadora ele ira realizar o calculo do exponecial de uma numero.
    
-   ## Soma
-   ![](name-of-giphy.gif)
-   ## Subratração
-   ## Multiplicação
-   ## Divisão
-   ## Exponenciação
+   ## Fucionalidades
+   
+   ### Soma
+   ![](./gifs/soma.gif)
+   
+   ### Subtração
+   ![](./gifs/subtracao.gif)
+   
+   ### Multiplicação
+   ![](./gifs/multiplicacao.gif)
+   
+   ### Divisão
+   ![](./gifs/divisao.gif)
+   
+   ### Exponenciação
+   ![](./gifs/exponenciacao.gif)
+   
+   ### Apagar individualmente
+   ![](./gifs/apagar_um.gif)
+
+   ### Apagar tudo
+   ![](./gifs/apagar_tudo.gif)
